@@ -20,7 +20,7 @@
   },
   "files": [
     "tasks",
-    "LICENSE"
+    "LICENSE",
     "lib"
   ],
   "license": "MIT",
