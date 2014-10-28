@@ -1,0 +1,16 @@
+h1 {
+	color: red;
+}
+
+input {
+	font-size: 12px;
+}
+
+// Vendor
+// ==========================================================================
+@import "test/fixtures/modules/module1.css"
+
+.test_class {
+	color: red;
+	background: none;
+}
