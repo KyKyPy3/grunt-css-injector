@@ -21,6 +21,7 @@
   "files": [
     "tasks",
     "LICENSE"
+    "lib"
   ],
   "license": "MIT",
   "dependencies": {
