@@ -1,6 +1,6 @@
 {
   "name": "grunt-css-injector",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Parse CSS files and inject another css files from @import directive.",
   "repository": "https://github.com/KyKyPy3/grunt-css-injector.git",
   "author": {
